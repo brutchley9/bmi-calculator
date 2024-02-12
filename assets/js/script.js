@@ -13,7 +13,14 @@ var weightBMI = (pounds * 703) / (inchHeight * inchHeight)
 console.log(weightBMI);*/
 
 function calculateBMI() {
-    console.log("It works!")
+    const f = document.getElementById("feet-input");
+    const feet = parseInt(f.value);
+    const i = document.getElementById("inches-input");
+    const inches = parseInt(i.value);
+    const w = document.getElementById("weight-input");
+    const weight = parseInt(w.value);
+    const feetInInches = parseInt(feet * 12);
+    const inchHeight = (feetInInches + inches);
+    console.log(inchHeight + " inches tall");
+    console.log(weight + " lbs");
 };
-
-calculateBMI();

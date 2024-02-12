@@ -16,10 +16,10 @@ Follow link https://github.com/brutchley9/bmi-calculator/ to access GitHub repos
 
 # Resources
 
-<li></li>
+<li>https://simpledev.io/lesson/get-input-value-js/</li>
 
-<li></li>
+<li>https://stackoverflow.com/questions/7658176/adding-two-variables-together</li>
 
-<li></li>
+<li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt</li>
 
 <li></li>
