@@ -18,3 +18,9 @@ function calculateBMI() {
     console.log("Your BMI is " + weightBMI);
     document.getElementById('calculated-bmi').value = JSON.stringify(weightBMI);
 };
+
+function sum(a, b) {
+    return a + b;
+}
+
+module.exports = { sum, calculateBMI };

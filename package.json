@@ -4,7 +4,7 @@
   "description": "Understanding the metrics of one's own personal health, by the numbers, is a crucial aspect of understanding progress in this regard. This includes weighing yourself on the scale, regulating caloric intake, or even counting your reps during a workout. Numbers matter when trying to lose weight or gain muscle, and one specific metric to keep an eye on is your Body Mass Index, or BMI. It takes into account your height and weight, giving you a number that represents the amount of mass on your body, relative to your height. According to the CDC website on BMI, \"A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.\"",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
