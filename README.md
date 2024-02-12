@@ -4,8 +4,12 @@ Understanding the metrics of one's own personal health, by the numbers, is a cru
 
 For this purpose, I have developed a relatively simple front-end webpage to host a BMI calculator, utilizing some basic JavaScript logic on the back-end to handle the math. All a user would need to do is enter their height in feet/inches and their weight in lbs. Please take the time to see how this calculation comes together in my script.js file. I have also included a list of resources, both for the code itself and as a source of information pertaining to body mass index. Thank you for reading.
 
-Screenshot of webpage:
-<img src="---------">
+---
+
+### Screenshot of webpage:
+
+<img src="./assets/images/bmicalcscreenshot.png">
+
 ---
 
 Follow link https://brutchley9.github.io/bmi-calculator/ to access this website!
@@ -28,4 +32,6 @@ Follow link https://github.com/brutchley9/bmi-calculator/ to access GitHub repos
 
 <li>https://stackoverflow.com/questions/56705177/should-jest-enzyme-be-a-devdependency-or-dependency</li>
 
-### Developed by Brad Hutchison (2024)
+---
+
+#### Developed by Brad Hutchison (2024)
