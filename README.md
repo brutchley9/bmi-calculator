@@ -22,4 +22,4 @@ Follow link https://github.com/brutchley9/bmi-calculator/ to access GitHub repos
 
 <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt</li>
 
-<li></li>
+<li>https://stackoverflow.com/questions/65929647/print-variable-to-text-area-instead-of-console-in-javascript</li>

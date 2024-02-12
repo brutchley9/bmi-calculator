@@ -23,4 +23,7 @@ function calculateBMI() {
     const inchHeight = (feetInInches + inches);
     console.log(inchHeight + " inches tall");
     console.log(weight + " lbs");
+    const weightBMI = ((weight * 703) / (inchHeight * inchHeight));
+    console.log("Your BMI is " + weightBMI);
+    document.getElementById('calculated-bmi').value = JSON.stringify(weightBMI);
 };
