@@ -32,6 +32,8 @@ Follow link https://github.com/brutchley9/bmi-calculator/ to access GitHub repos
 
 <li>https://stackoverflow.com/questions/56705177/should-jest-enzyme-be-a-devdependency-or-dependency</li>
 
+<li>https://www.w3schools.com/howto/howto_js_trigger_button_enter.asp</li>
+
 ---
 
 #### Developed by Brad Hutchison (2024)

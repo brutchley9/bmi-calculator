@@ -8,6 +8,10 @@ body {
     margin-top: 1%;
 }
 
+#inches-input {
+    margin-top: 1%;
+}
+
 #weight-input {
     display: flex;
     margin-top: 1%;
