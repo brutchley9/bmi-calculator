@@ -3,3 +3,21 @@
 body {
     background-color:#F5D0C5
 }
+
+#feet-input {
+    margin-top: 1%;
+}
+
+#weight-input {
+    display: flex;
+    margin-top: 1%;
+}
+
+#calculate-button {
+    margin-top: 1%;
+}
+
+#calculated-bmi {
+    margin-top: 1%;
+    display: flex;
+}
